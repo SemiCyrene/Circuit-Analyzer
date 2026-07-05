@@ -1,4 +1,3 @@
-// Trigger fresh build run
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
